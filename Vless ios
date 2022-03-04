@@ -1,0 +1,8 @@
+vless://ed2c2198-5efa-4989-9ffb-0daeb2847a6c@oracle.wdnmd2021.tk:443?security=xtls&sni=oracle.wdnmd2021.tk&alpn=&flow=xtls-rprx-direct#XrayOracleJp
+vless://f0872bb4-9983-4666-f2b0-8c7171074185@oracle.2022xray0117.life:443?security=xtls&sni=oracle.2022xray0117.life&alpn=&flow=xtls-rprx-direct#US
+vless://135872fc-e2d8-4791-d1bd-b5c3402901ec@oracleus3.2022xray0117.life:443?security=xtls&alpn=&flow=xtls-rprx-direct#xrayoracleus3
+vless://da746a9b-fc09-48b9-a9a1-91fb44a27ed7@oracleus4.2022xray0117.life:443?security=xtls&alpn=&flow=xtls-rprx-direct#xrayoracleus4
+vless://7dc546b3-7f3e-45db-c0e2-a6755ad5d932@singaporeoracle.wdnmd2021.tk:443?security=xtls&alpn=&flow=xtls-rprx-direct#Singapore
+vless://f13c351e-7d60-419a-d258-f897818e18a1@xrayamdkr1.2022xray0117.life:443?security=xtls&alpn=&flow=xtls-rprx-direct#xrayamdkr1
+vless://7dc546b3-7f3e-45db-c0e2-a6755ad5d932@129.154.49.232:56789?security=xtls&alpn=&flow=xtls-rprx-direct#Singapore%20%EF%BC%88%E6%98%A5%E5%B7%9D%E4%B8%AD%E8%BD%AC%EF%BC%89
+vless://82669d0c-1437-4201-dc15-6173c459f050@singaporeoracle2.wdnmd2021.tk:443?security=xtls&alpn=&flow=xtls-rprx-direct#%E6%96%B0%E5%8A%A0%E5%9D%A12
